@@ -1,6 +1,6 @@
 # LeetCode Problem Solving Journey
 
-This repository documents my journey through the [AlgoMaster 300 LeetCode Questions](https://algomaster.io/practice/dsa-patterns).
+This repository documents my journey through the [AlgoMaster 300 LeetCode Questions](https://algomaster.io/practice/dsa-patterns) and whatever problem I solve on the way.
 
 ## Progress Overview (May be new or revisited)
 
